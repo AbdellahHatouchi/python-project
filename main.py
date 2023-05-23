@@ -14,7 +14,7 @@ def display_menu():
     | 8. Delete Product exist in store                 |
     | 9. Search Product by ID                          |
     | 10. Search Product by name                       |
-    | 11. Exsit                                        |
+    | 11. Exit                                        |
     +--------------------------------------------------+
     """)
 
